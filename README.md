@@ -68,20 +68,20 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+##  Практика и стажировка
 [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
 [<img src="/certificate.pdf" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Samu77277/Samu77277/refs/heads/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2020-08-2026%20154006.jpg)
 
 <br>
 
-## 🎒 Образование
+##  Образование
 [<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
 [<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
 
 <br>
 <br>
 
-## 🤝 Контакт
+##  Контакт
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Sam77177)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 

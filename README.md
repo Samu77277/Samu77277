@@ -77,7 +77,8 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate.pdf" width="280px" hspace="10px" alt="Сертификат»">](Данилов Даниил Юрьевич.pdf)
+[<img src="/certificate.pdf" width="280px" hspace="10px" alt="Сертификат»">](<img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/72b8b180-b9f2-435a-95c6-ae4b933d361b" />
+)
 
 <br>
 

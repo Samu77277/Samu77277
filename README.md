@@ -77,7 +77,7 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate.pdf" width="280px" hspace="10px" alt="Сертификат»">](https://github.com/user-attachments/assets/b2dc460c-642d-4fd8-9453-f695efe1bea7)
+[<img src="/certificate.pdf" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Samu77277/Samu77277/refs/heads/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2020-08-2026%20154006.jpg)
 
 <br>
 
